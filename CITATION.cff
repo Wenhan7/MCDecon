@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sun
+    given-names: Wenhan
+    orcid: https://orcid.org/0000-0001-5747-1805
+title: Multichannel deconvolution of receiver functions with frequency-space filtering
+version: v1.0.0
+date-released: 2023-03-29
